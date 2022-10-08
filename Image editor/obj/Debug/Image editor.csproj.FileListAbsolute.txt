@@ -1,0 +1,11 @@
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\Image editor.csproj.AssemblyReference.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\Image editor.csproj.SuggestedBindingRedirects.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Editor.resources
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\Image editor.csproj.GenerateResource.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\Image editor.csproj.CoreCompileInputs.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb

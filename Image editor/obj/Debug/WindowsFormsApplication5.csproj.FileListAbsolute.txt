@@ -1,0 +1,30 @@
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+Y:\Программисты\3 курс\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+I:\2 Фото,видео,л.ф\Компьютерные курсы\Работы\Инюшкин Марк\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.AssemblyReference.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.AssemblyReference.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.SuggestedBindingRedirects.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb

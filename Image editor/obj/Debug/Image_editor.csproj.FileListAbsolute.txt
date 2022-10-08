@@ -1,0 +1,11 @@
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\obj\Debug\Image_editor.csproj.AssemblyReference.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\obj\Debug\Image_editor.csproj.SuggestedBindingRedirects.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\obj\Debug\Image_editor.Editor.resources
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\obj\Debug\Image_editor.Properties.Resources.resources
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\obj\Debug\Image_editor.csproj.GenerateResource.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\obj\Debug\Image_editor.csproj.CoreCompileInputs.cache
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\bin\Debug\Image_editor.exe.config
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\bin\Debug\Image_editor.exe
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\bin\Debug\Image_editor.pdb
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\obj\Debug\Image_editor.exe
+D:\Личные работы\Работы в портфолио\Рисование на картинках(есть нюансы)\Image editor\obj\Debug\Image_editor.pdb
